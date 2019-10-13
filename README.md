@@ -1,7 +1,7 @@
 The gruvbox color theme for Zathura
 =============================
 
-Visit the [Gruvbox homepage]
+Visit the [gruvbox] homepage
 ------------------------------
 
 zathura-gruvbox is heavily inspired by [zathura-solarized][], [gruvbox][] and [zathura][].
