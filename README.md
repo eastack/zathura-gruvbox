@@ -33,4 +33,4 @@ Screenshots
 
 [zathura-solarized]: https://github.com/lennonwoo/zathura-solarized
 [gruvbox]: https://github.com/morhetz/gruvbox
-[zathura]: 
+[zathura]: https://github.com/pwmt/zathura
