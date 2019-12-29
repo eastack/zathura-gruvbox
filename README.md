@@ -15,7 +15,7 @@ Installation
 The dark or the light themes are available. To install the dark version please do the following:
 
         $ cd zathura-gruvbox
-        $ cp zathura-gruvbox-dark ~/.config/gruvbox/zathurarc
+        $ cp zathura-gruvbox-dark ~/.config/zathura/zathurarc
 
 To install the light version go with:
 
