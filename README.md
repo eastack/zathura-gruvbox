@@ -25,10 +25,10 @@ To install the light version go with:
 Screenshots
 -----------
 
-![dark main](screenshot/dark-main.png)
-![dark index](screenshot/dark-index.png)
-![light main](screenshot/light-main.png)
-![light index](screenshot/light-index.png)
+![Light Open](screenshot/light-open.png)
+![Light TOC](screenshot/light-toc.png)
+![Dark Open](screenshot/dark-open.png)
+![Dark TOC](screenshot/dark-toc.png)
 
 
 [zathura-solarized]: https://github.com/lennonwoo/zathura-solarized
